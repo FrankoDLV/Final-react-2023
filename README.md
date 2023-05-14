@@ -1,6 +1,6 @@
 # Proyecto Final CoderHouse Ecommerce
 
-link al sitio publicado: https://starlit-syrniki-11474c.netlify.app
+link al sitio publicado: https://646021ff0c7e961adb280f6a--bucolic-mermaid-cca225.netlify.app
 
 Este proyecto fue creado con [Create React App](https://github.com/facebook/create-react-app).
 
